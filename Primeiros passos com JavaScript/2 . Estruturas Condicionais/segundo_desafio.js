@@ -11,7 +11,21 @@ Você tera cinco variaveis. Sendo elas:
 Imprima no console o valor que srá gasto e combustível para realizar esta viagem.
 */
 
-const precoEtanol = 4.00; 
+const precoEtanol = 5.79;
 const precoGasolina = 5.36;
 const kmPorLitros = 14;
 const distanciaEmKm = 79;
+const tipoCombustivel = 'Gasolina';
+
+const litrosConsumidos = distanciaEmKm / kmPorLitros;
+
+if (tipoCombustivel === 'Etanol') {
+    const valorGasto = litrosConsumidos * precoEtanol;
+    console.log(valorGasto.toFixed(2))
+
+} else {
+    const valorGasto = litrosConsumidos * precoGasolina;
+    console.log(valorGasto.toFixed(2))
+}
+
+
