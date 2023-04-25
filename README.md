@@ -12,3 +12,8 @@
 
 - O Poder das Funções na Qualidade do Seu Código
 - Praticando com Funções
+
+### 3) Criando Obejtos e Classes em JavaScript
+
+- Entendendo Objetos e Classes
+- Praticando com Obejtos e Classes
