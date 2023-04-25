@@ -16,4 +16,4 @@
 ### 3) Criando Obejtos e Classes em JavaScript
 
 - Entendendo Objetos e Classes
-- Praticando com Obejtos e Classes
+- Praticando com Objetos e Classes
