@@ -4,16 +4,16 @@
 
 ### 1) Primeiros Passos com JavaScript
 
-- Variáveis e operadores
-- Estruturas Condicionais
-- Praticando com Variáveis, Operadores e Estruturas Condicionais
+- 1.1 Variáveis e operadores
+- 1.2 Estruturas Condicionais
+- 1.3 Praticando com Variáveis, Operadores e Estruturas Condicionais
 
 ### 2) Conhecendo Funções JavaScript
 
-- O Poder das Funções na Qualidade do Seu Código
-- Praticando com Funções
+- 2.1 O Poder das Funções na Qualidade do Seu Código
+- 2.2 Praticando com Funções
 
 ### 3) Criando Obejtos e Classes em JavaScript
 
-- Entendendo Objetos e Classes
-- Praticando com Objetos e Classes
+- 3.1 Entendendo Objetos e Classes
+- 3.2 Praticando com Objetos e Classes
