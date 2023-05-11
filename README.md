@@ -17,3 +17,13 @@
 
 - 3.1 Entendendo Objetos e Classes
 - 3.2 Praticando com Objetos e Classes
+
+### 4) Arrays e Estruturas de Repetição em JavaScript
+
+- 4.1 Arrays e Estruturas de Repetição
+- 4.2 Praticando Estruturas de Repetição
+
+### 5) Importação e Exportação com JavaScript
+
+- 5.1 Desvendando as Funções "gets" e "print" dos Desafios de Código
+- 5.2 Praticando os Conceitos de Importação e Exportação
