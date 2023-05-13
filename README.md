@@ -27,3 +27,12 @@
 
 - 5.1 Desvendando as Funções "gets" e "print" dos Desafios de Código
 - 5.2 Praticando os Conceitos de Importação e Exportação
+
+### 6) Introdução ao JavaScript voltando para web
+
+- 6.1 Introdução
+- 6.2 Configuração do ambiente
+- 6.3 Protocolo cliente servidor
+- 6.4 Introdução ao HTML
+- 6.5 Introdução ao CSS
+- 6.6 Introdução ao JavaScript voltando para web
