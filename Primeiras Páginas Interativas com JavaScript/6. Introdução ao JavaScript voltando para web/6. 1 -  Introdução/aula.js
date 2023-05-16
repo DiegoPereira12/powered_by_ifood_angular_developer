@@ -1,0 +1,1 @@
+// Será realizado a criação de uma Pokedex
