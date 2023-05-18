@@ -36,3 +36,20 @@
 - 6.4 Introdução ao HTML
 - 6.5 Introdução ao CSS
 - 6.6 Introdução ao JavaScript voltando para web
+
+### 7) Criando um Projeto com HTML/CSS para Listagem de Pokémon
+
+## Configurações gerais do Projeto
+
+- 7.1 Adicionando normalize css no projeto
+- 7.2 Organizando o projeto
+- 7.3 Adicionando a font Roboto no projeto
+
+## Estilização da listagem de Pokémon
+
+- 7.4 Estilização inicial
+- 7.5 Estilização da listagem de Pokémon
+- 7.6 Adicionando a imagem do Pokémon
+- 7.7 Adicionando os tipos dos Pokémon e finalizando o layout da imagem
+- 7.8 Tornando nosso layout responsivo
+- 7.9 Separando os estilos
