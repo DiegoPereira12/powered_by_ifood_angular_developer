@@ -53,3 +53,29 @@
 - 7.7 Adicionando os tipos dos Pokémon e finalizando o layout da imagem
 - 7.8 Tornando nosso layout responsivo
 - 7.9 Separando os estilos
+
+### 8) Dominando o Protocolo HTTP e Integrando com a PokeAPI
+
+## Entendendo o funcionamento do protocolo HTTP
+
+- 8.1 Introdução a APIs
+- 8.2 Como funcionam as requisições
+- 8.3 URL Path e Method
+- 8.4 Path Params e Query String
+- 8.5 Headers
+- 8.6 Body e Status Code
+- 8.7 Introdução ao consumo da PokeApi
+- 8.8 Primeira requisição
+- 8.9 Manipulando o resultado da requisição através de uma Promise
+- 8.10 Transformando nossa lista de Pokémon em uma lista de HTML
+- 8.11 Separando o consumo da API da manipulação de HTML
+- 8.12 Utilizando a função Map para diminuir a verbosidade do nosso Código
+- 8.13 Revisando o nosso código e entendendo os próximos passos
+- 8.14 Manipulando múltiplas requisições em paralelo
+- 8.15 Convertendo o modelo do PokeApi para nosso modelo0
+- 8.16 Adicionando os tipos de Pokémon dinamicamente
+- 8.17 Adicionando o botão de paginação
+- 8.18 Criando mecanismo de paginação
+- 8.19 Criando mecanismo para limitar na primeira geração de Pokémon
+
+
