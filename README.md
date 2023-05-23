@@ -64,6 +64,9 @@
 - 8.4 Path Params e Query String
 - 8.5 Headers
 - 8.6 Body e Status Code
+
+## Integrando com a PokeAPI
+
 - 8.7 Introdução ao consumo da PokeApi
 - 8.8 Primeira requisição
 - 8.9 Manipulando o resultado da requisição através de uma Promise
