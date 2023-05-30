@@ -89,5 +89,10 @@
 - 9.4 Mandando as modificações para o git
 - 9.5 Entendendo o Desafio
 
+## 10) Criando Currículo Online com HTML e Git Pages
+
+- 10.1 Fork no Repositório do Git Pages
+- 10.2 Dados Pessoais
+
 
 
