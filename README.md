@@ -94,5 +94,8 @@
 - 10.1 Fork no Repositório do Git Pages
 - 10.2 Dados Pessoais
 
+# Desafios de Código em JavaScript
+
+## 1) Desafio Tempo estimado de Entrega
 
 
