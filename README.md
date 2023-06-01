@@ -96,6 +96,6 @@
 
 # Desafios de Código em JavaScript
 
-## 1) Desafio Tempo estimado de Entrega
-
+## 1) Tempo estimado de Entrega
+## 2) Calcular o Preço Final de um Pedido
 
