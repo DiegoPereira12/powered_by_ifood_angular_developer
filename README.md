@@ -96,6 +96,9 @@
 
 # Desafios de Código em JavaScript
 
-## 1) Tempo estimado de Entrega
-## 2) Calcular o Preço Final de um Pedido
+- 1 Tempo estimado de Entrega
+- 2 Calcular o Preço Final de um Pedido
+- 3 Ganhe uma Sobremessa Especial
+- 4 Identificando Pedidos Veganos
+- 5 Gerenciamento de Pedidos de Comida
 
